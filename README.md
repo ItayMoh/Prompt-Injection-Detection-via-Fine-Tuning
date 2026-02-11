@@ -1,3 +1,6 @@
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/95148be1-9bb7-4112-b7c4-4b61444ac5e9" />
+
 # Prompt Injection Detection via Fine-Tuning
 
 This project fine-tunes small language models to detect prompt injection attacks using a reasoning-augmented supervised fine-tuning (SFT) approach with ChatML templates.
