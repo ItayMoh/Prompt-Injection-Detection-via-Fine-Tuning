@@ -5,6 +5,8 @@
 
 This project fine-tunes small language models to detect prompt injection attacks using a reasoning-augmented supervised fine-tuning (SFT) approach with ChatML templates.
 
+**[Read the blogpost here](https://lilbullet.hashnode.dev/tiny-guards-defending-agents-with-small-1-06b-models?showSharer=true)**
+
 ## 🎯 Project Overview
 
 **Task:** Binary Classification (Benign vs. Malicious)  
